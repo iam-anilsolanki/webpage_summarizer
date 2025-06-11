@@ -38,7 +38,7 @@ It’s designed to run **entirely offline** using models like LLaMA or Mistral t
 
 Here’s a demo of the user interface:
 
-![Website Summarizer Demo](assets/demo.png)
+![Website Summarizer Demo](demo.png)
 
 ---
 
